@@ -1,0 +1,10 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+.card-body {
+    background-color: lavender;
+}
+.card-footer{
+    background-color:peachpuff;
+}
